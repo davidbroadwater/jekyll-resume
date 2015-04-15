@@ -7,7 +7,7 @@ author:
   github_username:  davidbroadwater
   repository: https://github.com/davidbroadwater/resume
   website: https://github.com/davidbroadwater/resume
-description: Résumé for David J. Broadwater.Top performing scientist and military veteran with 7 years of experience and a fascination with finding meaning in data. Skilled communicator with advanced technical degree and management perspective.
+description: Résumé for David J. Broadwater. David is a top-performing scientist and military veteran with 7 years of experience and a fascination with finding meaning in data, as well as a skilled communicator with an advanced technical degree and management perspective.
 baseurl: "/resume/" # the subpath of your site, e.g. /blog/
 url: "http://broadwater.io" # the base hostname & protocol for your site
 
